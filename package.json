@@ -1,0 +1,22 @@
+{
+  "name": "sigma-example-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "graphology": "0.21.1",
+    "parcel-bundler": "^1.6.1",
+    "sigma": "2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.2.3"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
